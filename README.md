@@ -1,13 +1,19 @@
 # ANNprob-ACPs-dataset-and-code
 
-Web server link : https://circular-palatable-term.anvil.app/
+# <span style="font-size:16px;">**ANNprob-ACPs: A novel anticancer peptide identifier based on probabilistic feature fusion approach**</span>
 
-we built our server with ANVIL software freely acceseebale 
-instruction: you have to follow the instructions to activate the server
+## <span style="font-size:16px;">**Overview:**</span>
 
-Our dataset :
-2772 in totla after using CD HIT = 2390 dataset with 9 feature extraction methods 
+Web server link :  not available right now ( working)
+
+<span style="font-size:14px;">
+All datasets are provided in FASTA format, which can have either a .txt or .fasta extension. 
+Please go to the (https://en.wikipedia.org/wiki/FASTA_format) for more information.
+  ## <span style="font-size:16px;">**Dataset information:**</span>
+## ⏩ 2772 in totla after using CD HIT = 2390 dataset with 9 feature extraction methods 
 
 However code are not available in publicly. 
 
-Methodology: follow fig2 
+## Workflow Diagram
+
+See Figure 2 ( methodology)
